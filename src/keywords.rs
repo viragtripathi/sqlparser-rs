@@ -151,6 +151,7 @@ define_keywords!(
     CLOB,
     CLONE,
     CLOSE,
+    COCKROACHDB,
     CLUSTER,
     COALESCE,
     COLLATE,
